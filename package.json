@@ -1,0 +1,14 @@
+{
+  "name": "panel-api",
+  "version": "1.0.0",
+  "description": "API Create Panel untuk Vercel",
+  "main": "api/create.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "author": "Bagus Bahril",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
